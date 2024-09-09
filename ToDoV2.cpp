@@ -1,4 +1,4 @@
-// this is a comment
+// hi
 #include <iostream>
 #include <fstream>
 #include <string>
