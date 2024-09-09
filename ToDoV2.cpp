@@ -1,9 +1,4 @@
-// hi
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <vector>
-using namespace std;
+
 
 void read_from_file         (vector <pair<string,bool>>&,ifstream &);
 void write_to_file          (vector <pair<string,bool>>&,ofstream &);
